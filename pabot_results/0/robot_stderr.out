@@ -1,0 +1,16 @@
+[ ERROR ] Error in file '/Users/mtb730889/Project/poc-robot-structure/keywords/api/cal_premium_api.robot' on line 5: Replacing variables from setting 'Resource' failed: Variable '${env}' not found.
+[ ERROR ] Error in file '/Users/mtb730889/Project/poc-robot-structure/import.robot' on line 11: Invalid resource file extension '.yaml'. Supported extensions are '.resource', '.robot', '.txt', '.tsv', '.rst' and '.rest'.
+[ WARN ] Imported resource file '/Users/mtb730889/Project/poc-robot-structure/resources/api.robot' is empty.
+[ WARN ] Imported resource file '/Users/mtb730889/Project/poc-robot-structure/resources/database.robot' is empty.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.
+[ WARN ] Keyword 'RequestsLibrary.To Json' is deprecated. Please use ${resp.json()} instead. Have a look at the improved HTML output as pretty printing replacement.

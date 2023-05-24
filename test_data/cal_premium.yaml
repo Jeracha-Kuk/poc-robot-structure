@@ -1,0 +1,145 @@
+cal_premium_success :
+  planCode: WON206
+  paymentMode: '01'
+  sumInsured: '150000'
+  birthdate: '08-06-1987'
+  gender: M
+  occupationCode: ก006002
+  channelId: LHBANK
+  language: TH
+  isTakaful: '0'
+  payerAge: '34'
+  payerGender: M
+
+plan_benefit_success :
+  planCode: WON206
+  language: TH
+  isTakaful: '0'
+  channelId: LHBANK
+
+jsonRequest:
+  planCode: TON10N_O1
+  sumInsured: 50000
+  premium: 19.15
+  coverageList:
+  - coverageCode: ROR051
+    coverageSuminsured: 500
+    coveragePremium: 176
+  premiumPayment: 195.15
+  paymentMode: '01'
+  paymentChannel: LINEBK
+  receiveBenefitMethod: '1'
+  insuredOfOrder:
+    insuredInformation:
+      titleCode: '004'
+      firstNameTH: ชื่อจริง
+      lastNameTH: นามสกุลจริง
+      firstNameEN: firstNameEN
+      lastNameEN: lastNameEN
+      gender: M
+      birthDate: '2540-06-01'
+      idCard: '2202200120324'
+      statusId: '1'
+      nationality: TH
+      presentAddress: '1'
+      businessAddress: '2'
+      mailingAddress: '1'
+      dopaInsured: Y
+      faceCompareinsured: Y
+      verifyIdcard: Y
+      verifyBookbank: Y
+      Addresses:
+      - type: '1'
+        building: ''
+        'no': 123/22
+        moo: '16'
+        soi: ''
+        road: ''
+        province: '32'
+        district: '10'
+        subDistrict: '11'
+        zipcode: '13160'
+        phoneNo: ''
+        mobileNo: '0920001900'
+      - type: '2'
+        building: ตึกH
+        'no': '1548'
+        moo: ''
+        soi: พหลโยธิน34
+        road: พหลโยธิน
+        province: '34'
+        district: '28'
+        subDistrict: '07'
+        zipcode: '10900'
+        phoneNo: ''
+        mobileNo: '0920001900'
+      jobInformations:
+      - occupationCode: ข040102
+        jobDescription: พนักงานบริษัทเอกชน
+        position: ผู้ชำนาญงาน
+        businessNature: เจ้าหน้าที่วิเคราะห์ระบบ
+        annualIncome: '300000'
+      email: test@gmail.com
+      mobileNo: '0920001900'
+      insurancePolicyDelivery: email
+      ReceiptDocumentDelivery: email
+  hasBeneficiary: true
+  beneficiariesOfOrder:
+  - relationShipCode: '031'
+    percent: 100
+    titleCode: '005'
+    firstName: ชื่อ
+    lastName: นามสกุล
+    age: '57'
+    idCard: '2202200120324'
+    presentAddress: '2'
+    beneficiaryAddress:
+      type: '2'
+      building: ตึกH
+      'no': '1548'
+      moo: ''
+      soi: พหลโยธิน34
+      road: พหลโยธิน
+      province: '34'
+      district: '28'
+      subDistrict: '07'
+      zipcode: '10900'
+      mobileNo: '0920001900'
+  questionnaire:
+    insuredHealthQuestions:
+    - code: HQINS001
+      answer: HQINS001ANS01
+    - code: HQINS002
+      answer: HQINS002ANS01
+    - code: HQINS003
+      answer: HQINS003ANS01
+    insuredFatcaQuestions:
+    - code: FATCAINS001
+      answer: FATCAINS001ANS01
+    - code: FATCAINS002
+      answer: FATCAINS002ANS01
+    - code: FATCAINS003
+      answer: FATCAINS003ANS01
+    - code: FATCAINS004
+      answer: FATCAINS004ANS01
+    insuredCRSQuestions:
+    - code: CRSINS001
+      answer: CRSINS001ANS02
+    payerFatcaQuestions:
+    payerHealthQuestions:
+  consentAndArgeement:
+    consentInfo:
+    - consentCode: 1
+      consentResult: true
+    - consentCode: 2
+      consentResult: true
+    - consentCode: 3
+      consentResult: true
+    taxIdentificationNo: '1140600174872'
+  language:
+  - TH
+  - EN
+  channel: LINEBK
+  transactionId: T230222X00019
+  referenceId: T230222X0001R00019
+

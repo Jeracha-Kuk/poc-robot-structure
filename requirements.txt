@@ -1,0 +1,8 @@
+robotframework>=3.0
+robotframework-requests>=0.9
+robotframework-jsonlibrary==0.5
+robotframework-databaselibrary==1.2.4
+PyYAML>=3.10
+#RunParallel
+robotframework-pabot>=2.15.0
+mysql-connector-python>=8.0.33

@@ -1,0 +1,36 @@
+==============================================================================
+Test Cases                                                                    
+==============================================================================
+Test Cases.Example Parallel                                                   
+==============================================================================
+TC_001 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_002 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_003 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_004 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_005 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_006 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_007 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_008 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_009 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_010 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_011 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+TC_012 Success - Open cal premium :: test call api to create coverage | PASS |
+------------------------------------------------------------------------------
+Test Cases.Example Parallel                                           | PASS |
+12 tests, 12 passed, 0 failed
+==============================================================================
+Test Cases                                                            | PASS |
+12 tests, 12 passed, 0 failed
+==============================================================================
+Output:  /Users/mtb730889/Project/poc-robot-structure/pabot_results/0/rerun.xml
